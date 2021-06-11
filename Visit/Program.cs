@@ -31,7 +31,7 @@ namespace Visit
         public override void purposeofVisit()
         {
             Console.WriteLine("Just came here to spend some time");
-            
+            Consolo.WriteLine("Finished");
         }
 
     }
